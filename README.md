@@ -30,8 +30,8 @@ Com este programa, é possível importar um arquivo do excel (.xls ou .xlsx), co
 
 ## Autores
 
-Gabriel Barbosa Silva
-Email: Gabrielbsouza01@gmail.com
+* Gabriel Barbosa Silva
+* Email: Gabrielbsouza01@gmail.com
 
 ## Histórico de Versões
 
