@@ -1,6 +1,6 @@
 ![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 # Exportador de Anilhas
- 
+
 Aplicativo para exportar anilhas para utilizar no software Elesys.
 
 ## Descrição
@@ -16,7 +16,7 @@ Com este programa, é possível importar um arquivo do excel (.xls ou .xlsx), co
 Ao executar o programa Anilha Exporter, está será a tela inicial:
 
 <p align="center">
-    <img src="Exemplos/TelaInicial.png" alt="Tela Inicial" width="400">
+    <img src="Exemplos/Menu.png" alt="Tela Inicial" width="400">
 </p>
 
 Primeiro, devemos selecionar um arquivo clicando no botão "Selecionar Arquivo"
