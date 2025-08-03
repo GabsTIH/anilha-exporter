@@ -71,10 +71,6 @@ O resultado é um arquivo excel criado na sua pasta como abaixo !
 
 Caso encontre problemas, você pode abrir uma [Issue](https://github.com/seu-usuario/seu-repo/issues) ou entrar em contato por email.
 
-## Ajuda
-
-* Em processo
-
 ## Autores
 
 * Gabriel Barbosa Silva
