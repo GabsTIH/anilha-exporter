@@ -57,8 +57,6 @@ O resultado é um arquivo excel criado na sua pasta como abaixo !
     <img src="Exemplos/AnilhaExportada.gif" alt="ArquivoNovo" width="500">
 </p>
 
-## Começando
-
 ### Dependências
 
 * Python 3.10 ou superior
