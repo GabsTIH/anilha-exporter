@@ -1,0 +1,29 @@
+# Ignorar cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignorar arquivos de ambientes virtuais
+env/
+venv/
+ENV/
+
+# Ignorar configurações do VS Code
+.vscode/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos do Excel
+*.xls
+*.xlsx
+*.XLS
+*.XLSX
+
+# Arquivos de build futuros (ex: .exe criados com pyinstaller ou auto-py-to-exe)
+dist/
+build/
+*.spec
+
