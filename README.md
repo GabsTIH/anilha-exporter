@@ -57,9 +57,6 @@ O resultado é um arquivo excel criado na sua pasta como abaixo !
     <img src="Exemplos/AnilhaExportada.gif" alt="ArquivoNovo" width="500">
 </p>
 
-=======
-Com este programa, é possível importar um arquivo do excel (.xls ou .xlsx), copiar duas colunas de uma tabela de anilhas, e exportar-lo em um novo arquivo com o nome de sua preferência.
-
 ## Começando
 
 ### Dependências
