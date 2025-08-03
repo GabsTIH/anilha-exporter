@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 ![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
-
-
-=======
->>>>>>> f29a63cea8e801fc59041b56e47f48d7b2f4f1eb
 # Exportador de Anilhas
 
 Aplicativo para exportar anilhas para utilizar no software Elesys.
@@ -12,7 +7,6 @@ Aplicativo para exportar anilhas para utilizar no software Elesys.
 
 O anilha exporter é um projeto desenvolvido com fins educativos para que eu possa aprender mais sobre python e Tkinter.
 Criado principalmente para automatizar o processo de exportação de anilhas que eu utilizo no meu atual setor de Montagem Elétrica.
-<<<<<<< HEAD
 Com este programa, é possível importar um arquivo do excel (.xls ou .xlsx), copiar duas colunas de uma tabela de anilhas, e exportá-lo em um novo arquivo com o nome de sua preferência.
 
 ## Começando
@@ -68,7 +62,6 @@ Com este programa, é possível importar um arquivo do excel (.xls ou .xlsx), co
 
 ## Começando
 
->>>>>>> f29a63cea8e801fc59041b56e47f48d7b2f4f1eb
 ### Dependências
 
 * Python 3.10 ou superior
@@ -77,23 +70,15 @@ Com este programa, é possível importar um arquivo do excel (.xls ou .xlsx), co
 
 ### Instalação
 
-<<<<<<< HEAD
 > ⚠️ Esta seção ainda está em desenvolvimento. Por enquanto, basta rodar o script `main.py` com Python instalado.
 
 ## Ajuda
 
 Caso encontre problemas, você pode abrir uma [Issue](https://github.com/seu-usuario/seu-repo/issues) ou entrar em contato por email.
-=======
-* Em processo
-
-### Executando o programa
-
-* Em processo
 
 ## Ajuda
 
 * Em processo
->>>>>>> f29a63cea8e801fc59041b56e47f48d7b2f4f1eb
 
 ## Autores
 
@@ -102,7 +87,6 @@ Caso encontre problemas, você pode abrir uma [Issue](https://github.com/seu-usu
 
 ## Histórico de Versões
 
-<<<<<<< HEAD
 * 1.1
     * Correções visuais adicionais e refatoração para melhorar a legibilidade do código.
 * 1.0
@@ -114,7 +98,4 @@ Caso encontre problemas, você pode abrir uma [Issue](https://github.com/seu-usu
 
 Este projeto está licenciado de forma restrita para uso educativo e interno.  
 Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-=======
-* 0.1
-    * Lançamento inicial
->>>>>>> f29a63cea8e801fc59041b56e47f48d7b2f4f1eb
+
