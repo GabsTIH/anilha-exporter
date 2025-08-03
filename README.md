@@ -1,6 +1,6 @@
 ![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 # Exportador de Anilhas
-
+ 
 Aplicativo para exportar anilhas para utilizar no software Elesys.
 
 ## Descrição
