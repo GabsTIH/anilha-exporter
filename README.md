@@ -69,7 +69,7 @@ O resultado é um arquivo excel criado na sua pasta como abaixo !
 
 ## Ajuda
 
-Caso encontre problemas, você pode abrir uma [Issue](https://github.com/seu-usuario/seu-repo/issues) ou entrar em contato por email.
+Caso encontre problemas, você pode abrir uma [Issue](https://github.com/gabstih/anilha-exporter/issues) ou entrar em contato por email.
 
 ## Autores
 
